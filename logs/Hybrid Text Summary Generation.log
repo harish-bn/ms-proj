@@ -1,0 +1,771 @@
+2024-04-22 12:49:36 INFO     ==========================================================================================================
+2024-04-22 12:49:36 INFO     Hybrid Text Summarization Started 
+2024-04-22 12:49:36 INFO     No of Test Records considered for analysis - {NO_OF_RECORDS} 
+2024-04-22 12:49:36 INFO     Lead 3 + Seq2Seq hybrid summarization
+2024-04-22 12:49:57 INFO     Lead 3 + BERT hybrid summarization
+2024-04-22 12:50:00 INFO     Lead 3 + T5 hybrid summarization
+2024-04-22 12:50:03 INFO     Lead 3 + GPT3.5 hybrid summarization
+2024-04-22 12:50:08 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 12:50:10 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 12:50:11 INFO     Lead 3 + GPT 4 hybrid summarization
+2024-04-22 12:50:23 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 12:50:29 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 12:50:29 INFO     Summaries will be saved in this file : ./output/hyb-ts-2024-04-22.csv
+2024-04-22 12:50:29 INFO     Hybrid Text Summarization Completed 
+2024-04-22 12:52:44 INFO     ==========================================================================================================
+2024-04-22 12:52:44 INFO     Hybrid Text Summarization Started 
+2024-04-22 12:52:44 INFO     No of Test Records considered for analysis - 2
+2024-04-22 12:52:44 INFO     Lead 3 + Seq2Seq hybrid summarization
+2024-04-22 12:53:05 INFO     Lead 3 + BERT hybrid summarization
+2024-04-22 12:53:09 INFO     Lead 3 + T5 hybrid summarization
+2024-04-22 12:53:12 INFO     Lead 3 + GPT3.5 hybrid summarization
+2024-04-22 12:53:16 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 12:53:18 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 12:53:19 INFO     Lead 3 + GPT 4 hybrid summarization
+2024-04-22 12:53:27 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 12:53:34 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 12:53:34 INFO     Summaries will be saved in this file : ./output/hyb-ts-2024-04-22.csv
+2024-04-22 12:53:34 INFO     Hybrid Text Summarization Completed 
+2024-04-22 13:50:08 INFO     ==========================================================================================================
+2024-04-22 13:50:08 INFO     Hybrid Text Summarization Started 
+2024-04-22 13:50:08 INFO     No of Test Records considered for analysis - 100
+2024-04-22 13:50:08 INFO     Lead 3 + Seq2Seq hybrid summarization
+2024-04-22 14:04:56 INFO     Lead 3 + BERT hybrid summarization
+2024-04-22 14:05:44 INFO     Lead 3 + T5 hybrid summarization
+2024-04-22 14:07:43 INFO     Lead 3 + GPT3.5 hybrid summarization
+2024-04-22 14:07:47 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:07:50 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:07:52 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:07:54 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:07:57 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:07:59 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:08:01 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:08:03 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:08:06 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:08:08 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-04-22 14:08:09 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-04-22 14:08:11 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-04-22 14:08:11 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:08:14 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:08:16 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-04-22 14:08:17 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:08:19 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:08:22 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:08:23 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:08:26 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:08:28 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:08:31 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:08:33 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:08:36 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:08:38 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-04-22 14:08:39 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:08:41 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:08:44 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-04-22 14:08:45 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-04-22 14:08:46 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-04-22 14:08:48 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:08:50 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-04-22 14:08:51 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:08:53 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:08:55 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:08:58 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-04-22 14:08:59 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:09:01 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:09:03 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:09:05 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:09:07 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:09:09 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:09:11 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:09:14 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:09:16 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:09:19 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:09:21 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:09:23 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:09:26 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:09:28 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:09:29 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:09:32 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:09:34 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:09:36 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:09:38 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:09:40 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:09:42 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:09:44 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:09:46 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-04-22 14:09:47 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:09:50 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:09:52 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:09:54 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-04-22 14:09:55 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:09:57 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:09:59 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:10:01 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-04-22 14:10:02 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:10:05 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:10:07 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:10:09 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:10:11 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:10:13 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:10:15 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:10:18 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:10:20 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:10:22 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:10:25 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:10:27 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:10:29 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:10:31 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:10:34 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-04-22 14:10:35 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:10:37 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-04-22 14:10:39 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:10:41 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:10:43 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:10:45 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:10:47 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-04-22 14:10:48 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:10:51 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-04-22 14:10:51 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-04-22 14:10:52 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:10:54 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:10:57 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:10:59 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:11:01 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:11:04 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:11:06 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:11:08 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:11:09 INFO     Lead 3 + GPT 4 hybrid summarization
+2024-04-22 14:11:19 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:11:24 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:11:27 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:11:35 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:11:40 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:11:43 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:11:47 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:11:51 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:12:01 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:12:12 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-04-22 14:12:19 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-04-22 14:12:33 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:12:37 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:12:43 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:12:50 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-04-22 14:12:58 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:13:04 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:13:16 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:13:22 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:13:27 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:13:36 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:13:44 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:13:51 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:14:09 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:14:18 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:14:21 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:14:39 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:14:46 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-04-22 14:14:53 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-04-22 14:15:02 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-04-22 14:15:10 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:15:15 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:15:24 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:15:30 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:15:37 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:15:44 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:15:50 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:15:59 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:16:05 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:16:26 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:16:34 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:16:49 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:17:06 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:17:20 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:17:31 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:17:44 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:17:51 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:17:58 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:18:07 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:18:12 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:18:20 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:18:25 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:18:29 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:18:36 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:18:48 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:18:57 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:19:02 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:19:10 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:19:18 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-04-22 14:19:23 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:19:41 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:19:59 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:20:05 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:20:10 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:20:24 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:20:35 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:20:39 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-04-22 14:20:45 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:20:51 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:20:58 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:21:03 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:21:14 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:21:21 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:21:29 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:21:47 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:21:52 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:22:07 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:22:14 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:22:18 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:22:27 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:22:41 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:22:48 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:23:11 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:23:19 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-04-22 14:23:26 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:23:31 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:23:37 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:23:43 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:23:49 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-04-22 14:23:53 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:24:05 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-04-22 14:24:11 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-04-22 14:24:15 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:24:34 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:24:43 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:24:54 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:24:57 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:25:04 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:25:14 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:25:17 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 14:25:17 INFO     Summaries will be saved in this file : ./output/hyb-ts-2024-04-22.csv
+2024-04-22 14:25:17 INFO     Hybrid Text Summarization Completed 
+2024-04-22 16:04:14 INFO     ==========================================================================================================
+2024-04-22 16:04:14 INFO     Hybrid Text Summarization Started 
+2024-04-22 16:04:14 INFO     No of Test Records considered for analysis - 2
+2024-04-22 16:04:14 INFO     Lead 3 + Seq2Seq hybrid summarization
+2024-04-22 16:04:18 INFO     Generating Baseline Hybrid Summaries...
+2024-04-22 16:06:06 INFO     Lead 3 + Seq2Seq hybrid summarization
+2024-04-22 16:06:10 INFO     Generating Baseline Hybrid Summaries...
+2024-04-22 16:06:41 INFO     Baseline ATS Duration - 31.154 seconds
+2024-04-22 16:07:41 INFO     ==========================================================================================================
+2024-04-22 16:07:41 INFO     Hybrid Text Summarization Started 
+2024-04-22 16:07:59 INFO     No of Test Records considered for analysis - 2
+2024-04-22 16:07:59 INFO     Lead 3 + Seq2Seq hybrid summarization
+2024-04-22 16:08:04 INFO     Generating Baseline Hybrid Summaries...
+2024-04-22 16:08:41 INFO     Baseline ATS Duration - 37.0624 seconds
+2024-04-22 16:08:41 INFO     Lead 3 + BERT hybrid summarization
+2024-04-22 16:08:42 INFO     Generating BERT Hybrid Summaries...
+2024-04-22 16:08:44 INFO     BERT HTS Duration - 2.1611 seconds
+2024-04-22 16:08:44 INFO     Lead 3 + T5 hybrid summarization
+2024-04-22 16:08:45 INFO     Generating T5 Hybrid Summaries...
+2024-04-22 16:08:50 INFO     T5 HTS Duration - 4.8319 seconds
+2024-04-22 16:08:50 INFO     Lead 3 + GPT3.5 hybrid summarization
+2024-04-22 16:08:50 INFO     Generating GPT3.5 Hybrid Summaries...
+2024-04-22 16:14:31 INFO     Generating GPT3.5 Hybrid Summaries...
+2024-04-22 16:14:35 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:14:37 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:14:37 INFO     GPT 3.5 HTS Duration - 5.9148 seconds
+2024-04-22 16:15:17 INFO     Lead 3 + GPT 4 hybrid summarization
+2024-04-22 16:15:18 INFO     Generating GPT 4 Hybrid Summaries...
+2024-04-22 16:15:27 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:15:33 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:15:33 INFO     GPT 4 HTS Duration - 15.5394 seconds
+2024-04-22 16:15:33 INFO     Total HTS Duration - 454.3098 seconds
+2024-04-22 16:15:33 INFO     MAP - HTS Average Inference Time Per Request - {'Baseline': 18.5312, 'bert-hyb': 1.0805, 't5-hyb': 2.416, 'gpt35-hyb': 2.9574, 'gpt4-hyb': 7.7697}
+2024-04-22 16:15:33 INFO     Duration will be saved in this file : ./output/hts-ts-duration-2024-04-22.csv
+2024-04-22 16:15:33 INFO     Summaries will be saved in this file : ./output/hyb-ts-2024-04-22.csv
+2024-04-22 16:15:36 INFO     Hybrid Text Summarization Completed 
+2024-04-22 16:16:27 INFO     ==========================================================================================================
+2024-04-22 16:16:27 INFO     Hybrid Text Summarization Started 
+2024-04-22 16:16:27 INFO     No of Test Records considered for analysis - 2
+2024-04-22 16:16:27 INFO     Lead 3 + Seq2Seq hybrid summarization
+2024-04-22 16:16:58 INFO     Generating Baseline Hybrid Summaries...
+2024-04-22 16:17:29 INFO     Baseline ATS Duration - 30.9446 seconds
+2024-04-22 16:17:29 INFO     Lead 3 + BERT hybrid summarization
+2024-04-22 16:17:32 INFO     Generating BERT Hybrid Summaries...
+2024-04-22 16:17:34 INFO     BERT HTS Duration - 2.6986 seconds
+2024-04-22 16:17:34 INFO     Lead 3 + T5 hybrid summarization
+2024-04-22 16:17:35 INFO     Generating T5 Hybrid Summaries...
+2024-04-22 16:17:40 INFO     T5 HTS Duration - 4.468 seconds
+2024-04-22 16:17:40 INFO     Lead 3 + GPT3.5 hybrid summarization
+2024-04-22 16:17:40 INFO     Generating GPT3.5 Hybrid Summaries...
+2024-04-22 16:17:44 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:17:45 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:17:45 INFO     GPT 3.5 HTS Duration - 4.8864 seconds
+2024-04-22 16:17:45 INFO     Lead 3 + GPT 4 hybrid summarization
+2024-04-22 16:17:45 INFO     Generating GPT 4 Hybrid Summaries...
+2024-04-22 16:17:51 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:17:59 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:17:59 INFO     GPT 4 HTS Duration - 13.4965 seconds
+2024-04-22 16:17:59 INFO     Total HTS Duration - 92.1183 seconds
+2024-04-22 16:17:59 INFO     MAP - HTS Average Inference Time Per Request - {'Baseline': 15.4723, 'bert-hyb': 1.3493, 't5-hyb': 2.234, 'gpt35-hyb': 2.4432, 'gpt4-hyb': 6.7482}
+2024-04-22 16:17:59 INFO     Duration will be saved in this file : ./output/hts-ts-duration-2024-04-22.csv
+2024-04-22 16:17:59 INFO     Summaries will be saved in this file : ./output/hyb-ts-2024-04-22.csv
+2024-04-22 16:17:59 INFO     Hybrid Text Summarization Completed 
+2024-04-22 16:19:33 INFO     ==========================================================================================================
+2024-04-22 16:19:33 INFO     Hybrid Text Summarization Started 
+2024-04-22 16:19:33 INFO     No of Test Records considered for analysis - 100
+2024-04-22 16:19:33 INFO     Lead 3 + Seq2Seq hybrid summarization
+2024-04-22 16:20:04 INFO     Generating Baseline Hybrid Summaries...
+2024-04-22 16:49:01 INFO     Baseline ATS Duration - 1737.0994 seconds
+2024-04-22 16:49:01 INFO     Lead 3 + BERT hybrid summarization
+2024-04-22 16:49:02 INFO     Generating BERT Hybrid Summaries...
+2024-04-22 16:49:48 INFO     BERT HTS Duration - 45.3805 seconds
+2024-04-22 16:49:48 INFO     Lead 3 + T5 hybrid summarization
+2024-04-22 16:49:48 INFO     Generating T5 Hybrid Summaries...
+2024-04-22 16:51:41 INFO     T5 HTS Duration - 113.4209 seconds
+2024-04-22 16:51:41 INFO     Lead 3 + GPT3.5 hybrid summarization
+2024-04-22 16:51:42 INFO     Generating GPT3.5 Hybrid Summaries...
+2024-04-22 16:51:46 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:51:47 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:51:48 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:51:50 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:51:51 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:51:52 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:51:54 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:51:55 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:51:56 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:51:57 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-04-22 16:51:57 INFO     Exception occured - {e}
+2024-04-22 16:51:58 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:51:59 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:00 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:01 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:02 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:03 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:04 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:06 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:06 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:08 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:09 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:10 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:11 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:12 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:13 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:14 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:16 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:17 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-04-22 16:52:17 INFO     Exception occured - {e}
+2024-04-22 16:52:18 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:18 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-04-22 16:52:19 INFO     Exception occured - {e}
+2024-04-22 16:52:19 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:20 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:21 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:22 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:24 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:25 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:26 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:27 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:28 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:29 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:30 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:31 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:32 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:34 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:35 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:36 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:38 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:39 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:40 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:41 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:42 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:43 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:44 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:45 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:46 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:48 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:49 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:50 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:51 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:52 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:53 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:55 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:56 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:57 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:58 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:52:59 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:53:01 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-04-22 16:53:01 INFO     Exception occured - {e}
+2024-04-22 16:53:02 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:53:03 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:53:04 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:53:06 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:53:07 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:53:08 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:53:09 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:53:10 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:53:11 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:53:12 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:53:13 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:53:15 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:53:16 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:53:17 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:53:18 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:53:19 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:53:20 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:53:21 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:53:22 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:53:23 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:53:24 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:53:26 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-04-22 16:53:26 INFO     Exception occured - {e}
+2024-04-22 16:53:27 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:53:28 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:53:29 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-04-22 16:53:29 INFO     Exception occured - {e}
+2024-04-22 16:53:30 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:53:31 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:53:32 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:53:33 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:53:34 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:53:35 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:53:36 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:53:37 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:53:37 INFO     GPT 3.5 HTS Duration - 115.5598 seconds
+2024-04-22 16:53:37 INFO     Lead 3 + GPT 4 hybrid summarization
+2024-04-22 16:53:38 INFO     Generating GPT 4 Hybrid Summaries...
+2024-04-22 16:53:45 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:53:50 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:53:55 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:54:01 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:54:03 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:54:06 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:54:09 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:54:12 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:54:16 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:54:23 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-04-22 16:54:23 INFO     Exception occured - {e}
+2024-04-22 16:54:27 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:54:31 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:54:36 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:54:41 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:54:46 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:54:52 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:54:55 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:54:59 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:55:01 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:55:06 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:55:10 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:55:15 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:55:19 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:55:24 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:55:30 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:55:33 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:55:38 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:55:42 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-04-22 16:55:42 INFO     Exception occured - {e}
+2024-04-22 16:55:49 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:55:53 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-04-22 16:55:53 INFO     Exception occured - {e}
+2024-04-22 16:55:57 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:56:02 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:56:07 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:56:16 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:56:21 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:56:26 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:56:32 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:56:35 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:56:39 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:56:43 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:56:45 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:56:51 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:56:56 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:57:01 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:57:06 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:57:14 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:57:17 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:57:22 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:57:27 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:57:31 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:57:34 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:57:40 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:57:46 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:57:52 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:57:56 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:57:59 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:58:01 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:58:06 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:58:12 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:58:16 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:58:21 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:58:26 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:58:30 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:58:34 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:58:37 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:58:41 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:58:44 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-04-22 16:58:44 INFO     Exception occured - {e}
+2024-04-22 16:58:47 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:58:51 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:58:55 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:58:59 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:59:03 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:59:07 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:59:11 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:59:17 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:59:23 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:59:27 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:59:31 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:59:35 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:59:39 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:59:44 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:59:49 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:59:54 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 16:59:57 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 17:00:03 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 17:00:05 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 17:00:11 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 17:00:14 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 17:00:17 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-04-22 17:00:17 INFO     Exception occured - {e}
+2024-04-22 17:00:19 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 17:00:25 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 17:00:29 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-04-22 17:00:29 INFO     Exception occured - {e}
+2024-04-22 17:00:32 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 17:00:35 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 17:00:42 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 17:00:48 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 17:00:51 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 17:00:55 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 17:01:01 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 17:01:04 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-04-22 17:01:04 INFO     GPT 4 HTS Duration - 446.1175 seconds
+2024-04-22 17:01:04 INFO     Total HTS Duration - 2490.8415 seconds
+2024-04-22 17:01:04 INFO     MAP - HTS Average Inference Time Per Request - {'Baseline': 17.371, 'bert-hyb': 0.4538, 't5-hyb': 1.1342, 'gpt35-hyb': 1.1556, 'gpt4-hyb': 4.4612}
+2024-04-22 17:01:04 INFO     Duration will be saved in this file : ./output/hts-ts-duration-2024-04-22.csv
+2024-04-22 17:01:04 INFO     Summaries will be saved in this file : ./output/hyb-ts-2024-04-22.csv
+2024-04-22 17:01:04 INFO     Hybrid Text Summarization Completed 
+2024-05-07 17:49:49 INFO     ==========================================================================================================
+2024-05-07 17:49:49 INFO     Hybrid Text Summarization Started 
+2024-05-07 17:49:49 INFO     No of Test Records considered for analysis - 100
+2024-05-07 17:49:49 INFO     Lead 3 + Seq2Seq hybrid summarization
+2024-05-07 17:49:51 INFO     Generating Baseline Hybrid Summaries...
+2024-05-07 18:02:18 INFO     Baseline ATS Duration - 747.5757 seconds
+2024-05-07 18:02:19 INFO     Lead 3 + BERT hybrid summarization
+2024-05-07 18:02:19 INFO     Generating BERT Hybrid Summaries...
+2024-05-07 18:03:03 INFO     BERT HTS Duration - 44.0609 seconds
+2024-05-07 18:03:03 INFO     Lead 3 + T5 hybrid summarization
+2024-05-07 18:03:04 INFO     Generating T5 Hybrid Summaries...
+2024-05-07 18:04:32 INFO     T5 HTS Duration - 88.3527 seconds
+2024-05-07 18:04:32 INFO     Lead 3 + GPT3.5 hybrid summarization
+2024-05-07 18:04:32 INFO     Generating GPT3.5 Hybrid Summaries...
+2024-05-07 18:04:36 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:04:37 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:04:38 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:04:39 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:04:41 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:04:42 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:04:43 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:04:44 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:04:45 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:04:46 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-05-07 18:04:46 INFO     Exception occured - {e}
+2024-05-07 18:04:48 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:04:49 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:04:50 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:04:51 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:04:52 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:04:53 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:04:55 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:04:56 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:04:56 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:04:58 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:04:59 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:05:00 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:05:02 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:05:03 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:05:04 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:05:06 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:05:07 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:05:08 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:05:09 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:05:11 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-05-07 18:05:11 INFO     Exception occured - {e}
+2024-05-07 18:05:12 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:05:13 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:05:14 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:05:15 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:05:17 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:05:18 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:05:19 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:05:20 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:05:21 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:05:23 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:05:23 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:05:25 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:05:26 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:05:27 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:05:28 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:05:30 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:05:31 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:05:32 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:05:33 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:05:34 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:05:36 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:05:37 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:05:38 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:05:39 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:05:40 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:05:42 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:05:43 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:05:44 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:05:45 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-05-07 18:05:45 INFO     Exception occured - {e}
+2024-05-07 18:05:46 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:05:47 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:05:48 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:05:50 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:05:51 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:05:52 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:05:54 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:05:55 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:05:56 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:05:57 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:05:59 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:06:00 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:06:01 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:06:02 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:06:03 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:06:04 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:06:05 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:06:06 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:06:07 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:06:09 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:06:10 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:06:11 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:06:12 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:06:13 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:06:15 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:06:16 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:06:17 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:06:18 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:06:19 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:06:20 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-05-07 18:06:20 INFO     Exception occured - {e}
+2024-05-07 18:06:21 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:06:22 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-05-07 18:06:22 INFO     Exception occured - {e}
+2024-05-07 18:06:24 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-05-07 18:06:24 INFO     Exception occured - {e}
+2024-05-07 18:06:24 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:06:26 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:06:27 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:06:28 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:06:29 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:06:30 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:06:31 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:06:32 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt35/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:06:32 INFO     GPT 3.5 HTS Duration - 119.8261 seconds
+2024-05-07 18:06:32 INFO     Lead 3 + GPT 4 hybrid summarization
+2024-05-07 18:06:32 INFO     Generating GPT 4 Hybrid Summaries...
+2024-05-07 18:06:39 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:06:44 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:06:47 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:06:52 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:06:55 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:06:58 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:07:02 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:07:04 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:07:08 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:07:14 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-05-07 18:07:14 INFO     Exception occured - {e}
+2024-05-07 18:07:24 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:07:28 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:07:31 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:07:36 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:07:40 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:07:43 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:07:48 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:07:51 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:07:53 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:07:58 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:08:13 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:08:16 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:08:20 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:08:22 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:08:25 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:08:28 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:08:32 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:08:36 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:08:41 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:08:47 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-05-07 18:08:47 INFO     Exception occured - {e}
+2024-05-07 18:08:51 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:08:54 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:09:03 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:09:07 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:09:13 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:09:16 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:09:20 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:09:24 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:09:28 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:09:31 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:09:33 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:09:43 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:09:46 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:09:52 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:09:55 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:10:00 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:10:05 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:10:09 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:10:15 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:10:17 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:10:21 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:10:25 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:10:29 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:10:33 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:10:35 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:10:39 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:10:41 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:10:46 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:10:50 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-05-07 18:10:50 INFO     Exception occured - {e}
+2024-05-07 18:10:53 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:11:00 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:11:04 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:11:08 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:11:12 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:11:17 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:11:22 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:11:25 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:11:28 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:11:34 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:11:38 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:11:41 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:11:45 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:11:48 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:11:55 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:12:01 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:12:05 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:12:15 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:12:25 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:12:27 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:12:31 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:12:34 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:12:37 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:12:42 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:12:46 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:12:50 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:12:53 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:13:03 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:13:08 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:13:11 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-05-07 18:13:11 INFO     Exception occured - {e}
+2024-05-07 18:13:18 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:13:24 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-05-07 18:13:24 INFO     Exception occured - {e}
+2024-05-07 18:13:27 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 400 model_error"
+2024-05-07 18:13:27 INFO     Exception occured - {e}
+2024-05-07 18:13:29 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:13:34 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:13:38 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:13:43 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:13:47 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:13:51 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:13:56 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:13:59 INFO     HTTP Request: POST https://tmap-openai.openai.azure.com//openai/deployments/gpt4/chat/completions?api-version=2023-09-15-preview "HTTP/1.1 200 OK"
+2024-05-07 18:13:59 INFO     GPT 4 HTS Duration - 446.9516 seconds
+2024-05-07 18:13:59 INFO     Total HTS Duration - 1450.0623 seconds
+2024-05-07 18:13:59 INFO     MAP - HTS Average Inference Time Per Request - {'Baseline': 7.4758, 'bert-hyb': 0.4406, 't5-hyb': 0.8835, 'gpt35-hyb': 1.1983, 'gpt4-hyb': 4.4695}
+2024-05-07 18:13:59 INFO     Duration will be saved in this file : ./output/hyb-ts-duration-final.csv
+2024-05-07 18:13:59 INFO     Summaries will be saved in this file : ./output/hyb-ts-final.csv
+2024-05-07 18:13:59 INFO     Hybrid Text Summarization Completed 

@@ -1,0 +1,18 @@
+2024-04-22 12:30:09 INFO     ==========================================================================================================
+2024-04-22 12:30:09 INFO     Data Preprocessing Started 
+2024-04-22 12:30:20 INFO     Train Shape (287113, 3), Test Shape (11490, 3), Validation Shape (13368, 3)
+2024-04-22 12:30:20 INFO     Setting up preprocessing pipeline
+2024-04-22 12:30:20 INFO     No of training records to be cleaned - 100000
+2024-04-22 12:30:20 INFO     Cleaning Train dataset
+2024-04-22 12:46:51 INFO     Cleaned Train dataset saved into './input/train_cleaned.csv' file 
+2024-04-22 12:55:07 INFO     ==========================================================================================================
+2024-04-22 12:55:07 INFO     Data Preprocessing Started 
+2024-04-22 12:55:17 INFO     Train Shape (287113, 3), Test Shape (11490, 3), Validation Shape (13368, 3)
+2024-04-22 12:55:17 INFO     Setting up preprocessing pipeline
+2024-04-22 12:55:17 INFO     Cleaning Train dataset
+2024-04-22 13:39:17 INFO     Cleaned Train dataset saved into './input/train_cleaned.csv' file 
+2024-04-22 13:39:17 INFO     Cleaning Test dataset
+2024-04-22 13:41:03 INFO     Cleaned Test dataset saved into './input/test_cleaned.csv' file 
+2024-04-22 13:41:03 INFO     Cleaning Validation dataset
+2024-04-22 13:43:03 INFO     Cleaned Validation dataset saved into './input/validation_cleaned.csv' file 
+2024-04-22 13:43:03 INFO     Data Preprocessing Completed 

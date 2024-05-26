@@ -1,0 +1,6 @@
+,models,avg_inf_time
+0,Baseline,3.4758
+1,bert-hyb,0.4406
+2,t5-hyb,0.8835
+3,gpt35-hyb,1.1983
+4,gpt4-hyb,4.4695

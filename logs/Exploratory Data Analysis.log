@@ -1,0 +1,52 @@
+2024-04-22 12:04:28 INFO     ==========================================================================================================
+2024-04-22 12:04:28 INFO     Exploratory Data Analysis Started 
+2024-04-22 12:04:37 INFO     Shapes - Train Dataset : (287113, 3), Test Dataset : (11490, 3), Validation Dataset: (13368, 3)
+2024-04-22 12:04:37 INFO     Train Null Articles :
+ id            0
+article       0
+highlights    0
+dtype: int64
+2024-04-22 12:04:37 INFO     Test Null Articles :
+ id            0
+article       0
+highlights    0
+dtype: int64
+2024-04-22 12:04:37 INFO     Validation Null Articles :
+ id            0
+article       0
+highlights    0
+dtype: int64
+2024-04-22 12:04:40 INFO     Train Dataset Duplicates - 3098
+2024-04-22 12:04:40 INFO     Computation of words count in train, test and validation Dataset
+2024-04-22 12:04:52 INFO     Dropping ID column from train, test and validation Dataset
+2024-04-22 12:04:52 INFO     Train dataset stats 
+          article_len  highlights_len
+count  287113.000000   287113.000000
+mean      691.869494       51.574101
+std       336.500035       21.256336
+min         8.000000        4.000000
+25%       443.000000       38.000000
+50%       632.000000       48.000000
+75%       877.000000       60.000000
+max      2347.000000     1296.000000
+2024-04-22 12:04:52 INFO     Plotting Percentile Distribution of word count for train, test and validation Dataset
+2024-04-22 12:04:52 INFO     Plotting word count Histogram for train, test and validation Dataset
+2024-04-22 12:08:19 INFO     Plotting sentences count Histogram for train, test and validation Dataset
+2024-04-22 12:25:40 INFO     Train Article Avg # of words per article: 788.2653206228906
+2024-04-22 12:25:40 INFO     Train Highlights Avg # of words per article: 54.6835845120214
+2024-04-22 12:25:40 INFO     Test Article Avg # of words per article: 773.2257615317668
+2024-04-22 12:25:40 INFO     Test Highlights Avg # of words per article: 57.75491731940818
+2024-04-22 12:25:40 INFO     Validation Article Avg # of words per article:764.3942250149611
+2024-04-22 12:25:40 INFO     Validation Highlights Avg # of words per article:60.813435068821065
+2024-04-22 12:25:40 INFO     Plotting Average # of Sentences for train, test and validation dataset
+2024-04-22 12:25:40 INFO     Average Sentences :               Article  Highlights
+Train       39.095704    3.682644
+Test        33.370061    3.791123
+Validation  32.790619    4.000598
+2024-04-22 12:25:40 INFO     Plotting Average # of words for train, test and validation dataset
+2024-04-22 12:25:41 INFO     Average words :                Article  Highlights
+Train       788.265321   54.683585
+Test        773.225762   57.754917
+Validation  764.394225   60.813435
+2024-04-22 12:26:01 INFO     Saving metrics of train, test and validation dataset completed
+2024-04-22 12:26:01 INFO     Exploratory Data Analysis Completed 
